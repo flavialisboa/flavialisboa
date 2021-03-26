@@ -1,6 +1,6 @@
 ### Olá!! 👋
 
-Meu nome é Flavia Lisboa, sou de Vitória (ES), Brasil. Estudo Análise e Desenvolvimento de Sistemas e também sou formada em Arquitetura e Urbanismo. Estou aberta a qualquer oportunidade na área, com interesse especial em Front-End 🌟
+Meu nome é Flavia Lisboa, sou de Vitória (ES), Brasil. Estudo Análise e Desenvolvimento de Sistemas e também sou formada em Arquitetura e Urbanismo. Estou aberta a qualquer oportunidade na área, com interesse especial em Ciência de Dados 🌟
 
 Meus hobbies incluem ver séries, ler, ufologia, maquiagem e cuidar das minhas plantas 🌿 
 
