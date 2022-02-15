@@ -1,9 +1,9 @@
 ### Olá!! 👋
 
-Meu nome é Flavia Lisboa, sou de Vitória (ES), Brasil. Estudo Análise e Desenvolvimento de Sistemas e também sou formada em Arquitetura e Urbanismo. 
-Faço estágio na empresa Autoglass, na área de desenvolvimento Full-Stack, com foco em Front-End 🌟
+Meu nome é Flavia Lisboa, sou de Vitória (ES), Brasil. Estou finalizando Análise e Desenvolvimento de Sistemas e também sou formada em Arquitetura e Urbanismo. 
+Trabalho na empresa Autoglass como Desenvolvedora Full Stack, com especial interesse em Front-End e UX 🌟
 
-No momento estou aprendendo principalmente Angular, .Net (C#) e UX/UI. 
+No momento estou programando principalmente Angular e .Net (C#). 
 
 Obrigada pela visita e se tiver interesse, veja meu LinkedIn:
 
